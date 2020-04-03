@@ -14,6 +14,7 @@ wektor_100 = random_wektor(100)
 srednia=numpy.mean(wektor_100)
 odchyl=numpy.std(wektor_100)
 
+
 print(wektor_100)
 print(srednia)
 print(odchyl)
